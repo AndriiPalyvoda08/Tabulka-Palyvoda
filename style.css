@@ -1,0 +1,49 @@
+.tab{
+     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+    color: rgb(0, 89, 255);
+}
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid black;
+}
+.obrazek{
+    background-image: url(811AhOv5zqL._AC_UF1000,1000_QL80_.jpg);
+    background-size: cover;
+    width: 120px;
+    height: 150px;
+}
+.shadow{
+    background-image: url(MESM_0.jpg);
+    background-size: cover;
+    width: 120px;
+    height: 150px;
+}
+.zaklin{
+    background-image: url(the-witcher-3-wild-hunt-goty-1.jpg);
+    background-size: cover;
+    width: 120px;
+    height: 150px;
+}
+.sky{
+    background-image: url(The_Elder_Scrolls_V_Skyrim_cover.png);
+    background-size: cover;
+    width: 120px;
+    height: 150px;
+}
+.red{
+    background-image:url(red-dead-redemption-2-pc-46497.png) ;
+    background-size: cover;
+    width: 120px;
+    height: 150px;
+}
+.farm{
+    background-image:url(okladka-gry-farming-simulator-22.jpg);
+    background-size: cover;
+    width: 120px;
+    height: 150px;
+}
